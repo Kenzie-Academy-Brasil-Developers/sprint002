@@ -1,22 +1,43 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;700&display=swap');
 body {
-font-family: 'Roboto', sans-serif;
-background-color: black;
-margin: 0px;
-padding: 0px;
-margin-left: 250px;
-margin-right: 250px;
+    font-family: 'Roboto', sans-serif;
+    background-color: black;
+    margin: 0px;
+    padding: 0px;
+    margin-left: 250px;
+    margin-right: 250px;
 }
- .inicio {border: 0px solid;background-color: white;border-radius: 0px;text-align: center;}
- .todos {border: 0px solid;background-color: white;border-radius: 10px; text-align: end;}
- .todos2 {border:5px solid;background-color: blue;color: white;border-color: black;border-radius: 2px;text-align: center;}
- #botao {background-color: black;color: white;}
- p {text-align: justify;}
- #email {text-align: center;}
- h2 {text-align: center;}
- .todos {margin: 7px;
+ .inicio {
+    border: 0px solid;
+    background-color: white;
+    border-radius: 0px;text-align: center;
 }
-.todos3 {text-align: center;
-;
+
+ .todos {
+    border: 0px solid;
+    background-color: white;
+    border-radius: 10px;
+    text-align: end;
 }
+
+ .todos2 {border:5px solid;
+    background-color: blue;
+    color: white;
+    border-color: black;
+    border-radius: 2px;text-align: center;}
+ 
+#botao {
+    background-color: black;
+    color: white;
+}
+ 
+p {text-align: justify;}
+ 
+#email {text-align: center;}
+ 
+h2 {text-align: center;}
+ 
+.todos {margin: 7px;}
+
+.todos3 {text-align: center; }
  
